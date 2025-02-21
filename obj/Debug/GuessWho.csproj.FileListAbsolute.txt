@@ -1,0 +1,7 @@
+C:\Users\levyo\source\repos\GuessWho\bin\Debug\GuessWho.exe.config
+C:\Users\levyo\source\repos\GuessWho\bin\Debug\GuessWho.exe
+C:\Users\levyo\source\repos\GuessWho\bin\Debug\GuessWho.pdb
+C:\Users\levyo\source\repos\GuessWho\obj\Debug\GuessWho.csproj.AssemblyReference.cache
+C:\Users\levyo\source\repos\GuessWho\obj\Debug\GuessWho.csproj.CoreCompileInputs.cache
+C:\Users\levyo\source\repos\GuessWho\obj\Debug\GuessWho.exe
+C:\Users\levyo\source\repos\GuessWho\obj\Debug\GuessWho.pdb
